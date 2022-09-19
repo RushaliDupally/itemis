@@ -42,13 +42,16 @@ Compile the project into a jar, or load the .java files into your favorite IDE a
 # Techologies Used
 Java 11
 
+# Libraries Used
+Math
+
 # Assumptions Made
 1. Input will be entered in the following format '(Quantity) (item) at (price).'
 2. If any item is imported, it should have the word imported in them.
 3. If any category is to be exempted, then that should be added in the EXEMPTED_CATEGORY_LIST list present in constants.java class of com.itemis.code.challenge.generic.functionalities package and the respective entry should be put in the ITEM_CATEGORY_MAP map.
 
 # Validations Handled
-1. Enterd value is null
+1. Entered value is null
 2. Entered value is empty
 3. Entered value is not in the format mentioned.
 4. Quantity is Negative.
@@ -83,15 +86,15 @@ Java 11
               9. Print on the screen in the Required Format.
 
 # Sample Execution.
-Please enter the item details in the following format: '(Quantity) (item) at (price).'[e.g: 1 imported box of chocolates at 10.00] 
+Please enter the item details in the following format: '(Quantity) (item) at (price).'[e.g: 1 imported box of chocolates at 10.00]
 1 imported bottle of perfume at 27.99
 Do you want to check out? Enter yes or no
 no
-Please enter the item details in the following format: '(Quantity) (item) at (price).'[e.g: 1 imported box of chocolates at 10.00] 
+Please enter the item details in the following format: '(Quantity) (item) at (price).'[e.g: 1 imported box of chocolates at 10.00]
 1 bottle of perfume at 18.99
 Do you want to check out? Enter yes or no
 no
-Please enter the item details in the following format: '(Quantity) (item) at (price).'[e.g: 1 imported box of chocolates at 10.00] 
+Please enter the item details in the following format: '(Quantity) (item) at (price).'[e.g: 1 imported box of chocolates at 10.00]
 1 packet of headache pills at 9.75
 Do you want to check out? Enter yes or no
 no
@@ -107,4 +110,3 @@ Bill Details
 1 imported box of chocolates: 11.85
 Sales Tax: 6.7
 Total: 74.68
-
