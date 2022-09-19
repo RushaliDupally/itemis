@@ -86,6 +86,7 @@ Math
               9. Print on the screen in the Required Format.
 
 # Sample Execution
+==========================
 Please enter the item details in the following format: '(Quantity) (item) at (price).'[e.g: 1 imported box of chocolates at 10.00]
 1 imported bottle of perfume at 27.99
 Do you want to check out? Enter yes or no
@@ -102,7 +103,6 @@ Please enter the item details in the following format: '(Quantity) (item) at (pr
 1 imported box of chocolates at 11.25
 Do you want to check out? Enter yes or no 
 yes
-==========================
 Bill Details
 1 imported bottle of perfume: 32.19
 1 bottle of perfume: 20.89
