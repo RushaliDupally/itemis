@@ -100,7 +100,7 @@ Do you want to check out? Enter yes or no
 no
 Please enter the item details in the following format: '(Quantity) (item) at (price).'[e.g: 1 imported box of chocolates at 10.00] 
 1 imported box of chocolates at 11.25
-Do you want to check out? Enter yes or no
+Do you want to check out? Enter yes or no 
 yes
 ==========================
 Bill Details
