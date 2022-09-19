@@ -149,8 +149,6 @@ Do you want to check out? Enter yes or no
 <br>
 yes
 <br>
-==========================
-<br>
 Bill Details
 <br>
 1 imported bottle of perfume: 32.19
