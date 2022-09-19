@@ -86,7 +86,6 @@ Math
               9. Print on the screen in the Required Format.
 
 # Sample Execution
-==========================
 Please enter the item details in the following format: '(Quantity) (item) at (price).'[e.g: 1 imported box of chocolates at 10.00]
 1 imported bottle of perfume at 27.99
 Do you want to check out? Enter yes or no
